@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
 import './index.css';
+import logo from '../src/assets/logo.png';
 
 function App() {
   const [pokedex, setPokedex] = useState([]);
@@ -45,12 +46,10 @@ function App() {
     setPokedex(state => state.filter(p => p.id != id))
   }
 
-
   return (
     <div className="app-wrapper">
       <header>
-        <h1 className="title">PokeApp</h1>
-        <h3 className="subtitle">We Can Code Academy - Challenge 01</h3>
+        <img className="logo" src={logo} />
       </header>
 
       <section className="wild-pokemon">

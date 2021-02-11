@@ -30,20 +30,8 @@ header {
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
 
-.title {
-  color: #b22222;
-  font-size: 32px;
-  text-transform: uppercase;
-  font-weight: 900;
-  line-height: 1;
-}
-
-.subtitle {
-  color: #171717;
-  font-size: 15px;
-  text-transform: uppercase;
-  font-weight: 300;
-  line-height: 1;
+.logo {
+  width: 150px;
 }
 
 .wild-pokemon {
