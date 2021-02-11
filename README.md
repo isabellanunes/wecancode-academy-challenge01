@@ -24,7 +24,7 @@
 
 ## Project
 
-The Pokeapp it's a Pokédex app developed as part of the bootcamp of [Gama Accademy](https://www.gama.academy/) as the first challenge.
+The Pokeapp it's a Pokédex app developed as part of the bootcamp of [Gama Accademy](https://www.gama.academy/) as the first challenge, it's a React project and run in all browsers.
 
 ## Run
 
