@@ -24,7 +24,7 @@
 
 ## Project
 
-The Pokeapp it's a Pokédex app developed as part of the bootcamp of [Gama Accademy](https://www.gama.academy/) as the first challenge, it's a React project and run in all browsers.
+This is a Pokédex app developed as part of the bootcamp of [Gama Accademy](https://www.gama.academy/) as the first challenge, it's a React project and run in all browsers.
 
 ## Run
 
@@ -40,12 +40,6 @@ yarn start
 ```
 
 Lastly access [http://localhost:3000](http://localhost:3000).
-
-## References
-
-[Learn React Hooks with Pokémon](https://www.youtube.com/watch?v=LxOMWk7K0QE)
-
-[How to Build a Simple Pokémon Web App with React Hooks and the Context API](https://www.freecodecamp.org/news/building-a-simple-pokemon-web-app-with-react-hooks-and-context-api/)
 
 ## License
 
