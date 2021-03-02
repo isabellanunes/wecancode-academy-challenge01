@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./src/assets/logo.png" width = "200px"/>
+    PokéApp
 </h1>
 
 <p align="center">
