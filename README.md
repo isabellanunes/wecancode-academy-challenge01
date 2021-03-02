@@ -26,6 +26,9 @@
 
 This is a Pokédex app developed as part of the bootcamp of [Gama Accademy](https://www.gama.academy/) as the first challenge, it's a React project and run in all browsers.
 
+## Status
+Done ✅
+
 ## Run
 
 For install all dependencies:
