@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/languages/count/isabellanunes/pokeapp?style=flat-square" />
     <img src="https://img.shields.io/github/repo-size/isabellanunes/pokeapp?style=flat-square" />
     <img src="https://img.shields.io/github/last-commit/isabellanunes/pokeapp?style=flat-square" />
-</p>
+</p>    
 
 <br />
 
