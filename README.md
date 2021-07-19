@@ -12,14 +12,14 @@
 <br />
 
 <p align="center">
-    <img src=".readme/image01.png" width = "200px" />
+    <img src=".readme/image01.png" width = "600px" />
 </p>
 
 <br />
 
 ## Technologies and requirements
-- NodeJS 14.15.4
-- React 17.0.1
+- NodeJS
+- React
 
 ## Project
 This is a Pokédex app developed as part of the bootcamp of [Gama Accademy](https://www.gama.academy/) as the first challenge, it's a React project and run in all browsers.
